@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "391551892385",
+    "project_id": "imovies-4d2bb",
+    "storage_bucket": "imovies-4d2bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391551892385:android:c82e8065b318434c4e29e0",
+        "android_client_info": {
+          "package_name": "com.example.imovies"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8sNA-88YshHel90v0OX3fK97rBi-HcUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
